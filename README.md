@@ -59,6 +59,10 @@ The model returns:
 
 This output is only a statistical estimate based on patterns in the dataset. It is useful for learning how classification works, but it should not be treated as clinical advice or a real diagnostic tool.
 
+## Current Result
+
+With the current notebook setup, the Logistic Regression baseline reaches an accuracy of about `75.32%` on the test split.
+
 
 ## Setup
 
